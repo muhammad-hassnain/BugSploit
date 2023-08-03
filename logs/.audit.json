@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/kali/Downloads/BugSploit/logs/.audit.json",
+    "files": [
+        {
+            "date": 1691038326832,
+            "name": "/home/kali/Downloads/BugSploit/logs/access.log.2023-08-03",
+            "hash": "81b978af7bacf6273a74f14a105cc8ed"
+        }
+    ]
+}
